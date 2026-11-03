@@ -1,0 +1,5 @@
+PS C:\Users\gayav> git branch -v -a
+* main               8d3e4f5 [behind 1] Add simple-interest.sh script
+  bug-fix-typo       7a1b2c3 Fix typographical errors in calculation fields
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
