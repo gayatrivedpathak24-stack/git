@@ -1,0 +1,9 @@
+PS C:\Users\gayav> git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+PS C:\Users\gayav> git merge bug-fix-typo
+Updating 7a1b2c3..8d3e4f5
+Fast-forward
+ simple-interest.sh | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
