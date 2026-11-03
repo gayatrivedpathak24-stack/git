@@ -1,0 +1,35 @@
+{
+  "id": 998877665,
+  "number": 1,
+  "state": "open",
+  "title": "bug-fix-revert",
+  "user": {
+    "login": "gayatrivedpathak24"
+  },
+  "head": {
+    "label": "gayatrivedpathak24:main",
+    "ref": "main",
+    "sha": "8d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e",
+    "user": {
+      "login": "gayatrivedpathak24"
+    },
+    "repo": {
+      "id": 554321098,
+      "name": "stack",
+      "full_name": "gayatrivedpathak24/stack",
+      "private": false,
+      "html_url": "https://github.com",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "id": 534311000,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com"
+    }
+  }
+}
